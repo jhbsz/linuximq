@@ -32,6 +32,7 @@ Signed-off-by: Jussi Kivilinna <jussi.kivilinna@iki.fi>
  create mode 100644 include/linux/netfilter_ipv4/ipt_IMQ.h
  create mode 100644 include/linux/netfilter_ipv6/ip6t_IMQ.h
  create mode 100644 net/netfilter/xt_IMQ.c
+ 
 
 diff --git a/drivers/net/Kconfig b/drivers/net/Kconfig
 index 3835321..77550a9 100644
